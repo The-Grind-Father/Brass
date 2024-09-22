@@ -1,0 +1,2 @@
+#pragma once
+enum class AMMOTYPE {PISTOL, RIFLE, HICAL, BUCKSHOT, EXPLOSIVE};
